@@ -1,6 +1,7 @@
 # 💫 About Me:
 <br>🔭 I’m currently working on — Software & programming projects  <br>👯 I’m looking to collaborate on — Open-source & technical projects  <br>🤝 I’m looking for help with — Advanced programming & problem-solving  <br>🌱 I’m currently learning — AI, software development & data analysis  <br>💬 Ask me about — Programming, technology & data  <br>⚡ Fun fact — I enjoy turning complex technical problems into practical solutions.
 
+Founder of CHIPLER | Hardware & Firmware Developer | Mobile Repair, eMMC/UFS  | Protocol Reverse Engineering
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BV4JWT7Fz/)
